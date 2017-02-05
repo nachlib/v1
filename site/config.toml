@@ -1,8 +1,9 @@
-baseurl = "https://example.org/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Hugo Creative Theme"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
+EnableMissingTranslationPlaceholders ="true"
 
 [params]
 
